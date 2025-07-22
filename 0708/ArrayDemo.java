@@ -1,5 +1,3 @@
-package 0708;
-
 public class ArrayDemo {
     public static void main(String[] args) {
         double[] numbers = {1.11, 2.22, 3.33, 4.44, 5.55};
